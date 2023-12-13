@@ -1,0 +1,3 @@
+#!/bin/sh
+# runs the simulation
+CLASSPATH=${PWD}/gson-2.8.9.jar:. java Sim "$@"

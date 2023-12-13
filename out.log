@@ -1,0 +1,201 @@
+** unable to set: station H occupied by train green
+** unable to set: station L occupied by train orange
+*** After Load JSON file: tc.json
+{"lines":{"red":["A","B","D","G","F"],"green":["H","G","E","B","C"],"orange":["L","K","J","I","H"],"blue":["R","S","P","N","M","F"],"purple":["O","N","Q","S","T","L"]},"trips":{"Aardvark":["R","S","T"],"Bear":["R","F","G","H"],"Cow":["R","S","L","H"],"Dog":["A","B","G"],"Elephant":["D","F","N","T"],"Frog":["O","N","F","G","H"],"Giraffe":["O","L","H"],"Horse":["M","N"],"Iguana":["P","F","B","C"],"Jaguar":["H","L"],"Koala":["L","T"],"Lamprey":["L","H","G","F","S","T"]}}
+Passenger Frog boards purple at O
+Passenger Giraffe boards purple at O
+Passenger Cow boards blue at R
+Passenger Bear boards blue at R
+Passenger Lamprey boards orange at L
+Passenger Aardvark boards blue at R
+Passenger Dog boards red at A
+Train green moves from H to G
+Train red moves from A to B
+Passenger Dog deboards red at B
+Passenger Dog boards red at B
+Train orange moves from L to K
+Train blue moves from R to S
+Train purple moves from O to N
+Passenger Frog deboards purple at N
+Passenger Cow deboards blue at S
+Passenger Aardvark deboards blue at S
+Train green moves from G to E
+Train red moves from B to D
+Train orange moves from K to J
+Passenger Elephant boards red at D
+Train purple moves from N to Q
+Train blue moves from S to P
+Passenger Iguana boards blue at P
+Train green moves from E to B
+Train red moves from D to G
+Passenger Dog deboards red at G
+*** Passenger Dog leaves MBTA ***
+Train purple moves from Q to S
+Train orange moves from J to I
+Passenger Aardvark boards purple at S
+Passenger Cow boards purple at S
+Train blue moves from P to N
+Passenger Frog boards blue at N
+Train green moves from B to C
+Train red moves from G to F
+Passenger Elephant deboards red at F
+Train purple moves from S to T
+Train blue moves from N to M
+Train orange moves from I to H
+Passenger Jaguar boards orange at H
+Passenger Horse boards blue at M
+Passenger Lamprey deboards orange at H
+Passenger Aardvark deboards purple at T
+*** Passenger Aardvark leaves MBTA ***
+Train green moves from C to B
+Train red moves from F to G
+Train purple moves from T to L
+Train blue moves from M to F
+Train orange moves from H to I
+Passenger Giraffe deboards purple at L
+Passenger Cow deboards purple at L
+Passenger Koala boards purple at L
+Passenger Bear deboards blue at F
+Passenger Iguana deboards blue at F
+Passenger Elephant boards blue at F
+Passenger Frog deboards blue at F
+Train green moves from B to E
+Train red moves from G to D
+Train purple moves from L to T
+Train blue moves from F to M
+Train orange moves from I to J
+Passenger Koala deboards purple at T
+*** Passenger Koala leaves MBTA ***
+Train green moves from E to G
+Train red moves from D to B
+Train purple moves from T to S
+Train blue moves from M to N
+Train orange moves from J to K
+Passenger Elephant deboards blue at N
+Passenger Horse deboards blue at N
+*** Passenger Horse leaves MBTA ***
+Train green moves from G to H
+Passenger Lamprey boards green at H
+Train red moves from B to A
+Train purple moves from S to Q
+Train orange moves from K to L
+Train blue moves from N to P
+Passenger Giraffe boards orange at L
+Passenger Cow boards orange at L
+Passenger Jaguar deboards orange at L
+*** Passenger Jaguar leaves MBTA ***
+Train green moves from H to G
+Passenger Lamprey deboards green at G
+Train blue moves from P to S
+Train orange moves from L to K
+Train red moves from A to B
+Train purple moves from Q to N
+Passenger Elephant boards purple at N
+Train green moves from G to E
+Train purple moves from N to O
+Train blue moves from S to R
+Train orange moves from K to J
+Train red moves from B to D
+Train green moves from E to B
+Train purple moves from O to N
+Train blue moves from R to S
+Train orange moves from J to I
+Train red moves from D to G
+Passenger Lamprey boards red at G
+Train green moves from B to C
+Train purple moves from N to Q
+Train blue moves from S to P
+Train orange moves from I to H
+Train red moves from G to F
+Passenger Frog boards red at F
+Passenger Giraffe deboards orange at H
+*** Passenger Giraffe leaves MBTA ***
+Passenger Cow deboards orange at H
+*** Passenger Cow leaves MBTA ***
+Passenger Bear boards red at F
+Passenger Iguana boards red at F
+Passenger Lamprey deboards red at F
+Train green moves from C to B
+Train purple moves from Q to S
+Train blue moves from P to N
+Train orange moves from H to I
+Train red moves from F to G
+Passenger Frog deboards red at G
+Passenger Bear deboards red at G
+Train green moves from B to E
+Train purple moves from S to T
+Train blue moves from N to M
+Passenger Elephant deboards purple at T
+*** Passenger Elephant leaves MBTA ***
+Train orange moves from I to J
+Train red moves from G to D
+Train green moves from E to G
+Passenger Frog boards green at G
+Passenger Bear boards green at G
+Train purple moves from T to L
+Train orange moves from J to K
+Train blue moves from M to F
+Passenger Lamprey boards blue at F
+Train red moves from D to B
+Passenger Iguana deboards red at B
+Train green moves from G to H
+Passenger Frog deboards green at H
+*** Passenger Frog leaves MBTA ***
+Passenger Bear deboards green at H
+*** Passenger Bear leaves MBTA ***
+Train purple moves from L to T
+Train orange moves from K to L
+Train blue moves from F to M
+Train red moves from B to A
+Train green moves from H to G
+Train purple moves from T to S
+Train orange moves from L to K
+Train blue moves from M to N
+Train red moves from A to B
+Train green moves from G to E
+Train purple moves from S to Q
+Train blue moves from N to P
+Train orange moves from K to J
+Train red moves from B to D
+Train green moves from E to B
+Passenger Iguana boards green at B
+Train purple moves from Q to N
+Train blue moves from P to S
+Train orange moves from J to I
+Train red moves from D to G
+Passenger Lamprey deboards blue at S
+Train green moves from B to C
+Passenger Iguana deboards green at C
+*** Passenger Iguana leaves MBTA ***
+Train purple moves from N to O
+Train orange moves from I to H
+Train red moves from G to F
+Train blue moves from S to R
+Train green moves from C to B
+Train purple moves from O to N
+Train orange moves from H to I
+Train red moves from F to G
+Train blue moves from R to S
+Train green moves from B to E
+Train purple moves from N to Q
+Train orange moves from I to J
+Train red moves from G to D
+Train blue moves from S to P
+Train green moves from E to G
+Train purple moves from Q to S
+Train orange moves from J to K
+Passenger Lamprey boards purple at S
+Train red moves from D to B
+Train blue moves from P to N
+Train green moves from G to H
+Train purple moves from S to T
+Passenger Lamprey deboards purple at T
+*** Passenger Lamprey leaves MBTA ***
+Train orange moves from K to L
+--- Train orange exits ---
+Train red moves from B to A
+--- Train red exits ---
+Train blue moves from N to M
+--- Train blue exits ---
+Train green moves from H to G
+--- Train green exits ---

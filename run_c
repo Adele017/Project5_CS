@@ -1,0 +1,4 @@
+#!/bin/sh
+# to run C.java
+javac -cp "gson-2.8.9.jar:hamcrest-2.2.jar:junit-4.13.2.jar" C.java
+CLASSPATH=${PWD}/gson-2.8.9.jar:. java C
